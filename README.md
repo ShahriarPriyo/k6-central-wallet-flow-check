@@ -1,0 +1,1 @@
+# k6-central-wallet-flow-check
